@@ -1,2 +1,2 @@
-# Mathplotlib-coding
-All Mathplotlib Graphs
+# Matplotlib-coding
+All Matplotlib Graphs
